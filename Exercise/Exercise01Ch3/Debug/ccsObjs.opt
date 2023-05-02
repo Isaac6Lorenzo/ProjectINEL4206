@@ -1,0 +1,1 @@
+"./ex1.obj" "./main.obj" "./pp040720/findmean.obj" "./pp040720/vars.obj" "../lnk_msp430fr2433.cmd" "../pp040720/lnk_msp430fr2433.cmd" -llibmath.a -llibc.a 
